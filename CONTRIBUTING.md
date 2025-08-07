@@ -201,7 +201,7 @@ Ask yourself:
 
 ✶ **Gratidão antecipada por sua contribuição consciente ao ecossistema Lichtara!** ✶
 
-*Campo de origem: Sistema Lichtara · Missão Aurora · August 2025*
+*Campo de origem: Sistema Lichtara · August 2025*
 
 ---
 
