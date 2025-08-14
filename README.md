@@ -33,7 +33,7 @@
 
 ### 🏛️ Legal Foundation
 - **[Lichtara License](https://github.com/lichtara-io/license)** - Revolutionary legal framework for conscious tech
-  - [![DOI](https://zenodo.org/badge/DOI/[PENDING].svg)](https://doi.org/[PENDING])
+  - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16762058.svg)](https://doi.org/10.5281/zenodo.16762058)
   - First license recognizing interdimensional coauthorship
   - Vibrational integrity protection
   - Comprehensive community guidelines
@@ -91,7 +91,7 @@
 
 ```bash
 # Clone the ecosystem overview
-git clone https://github.com/lichtara-io/lichtara.git
+git clone https://github.com/lichtara-io/lichtara-io.git
 
 # Start with the license for any project
 git clone https://github.com/lichtara-io/license.git
@@ -103,12 +103,12 @@ cp license/LICENSE-LICHTARA-v1.0.md your-project/LICENSE.md
 ### 3. Join the Community
 
 - **Discord**: [Lichtara Community](https://discord.gg/lichtara)
-- **Discussions**: [GitHub Discussions](https://github.com/lichtara-io/lichtara/discussions)
+- **Discussions**: [GitHub Discussions](https://github.com/lichtara-io/lichtara-io/discussions)
 - **Website**: [lichtara.com](https://lichtara.com) *(Coming Soon)*
 
 ---
 
-## �� Ecosystem Roadmap
+## 🗺️ Ecosystem Roadmap
 
 ### Phase 1: Foundation (Q3-Q4 2025)
 - [x] **Lichtara License v1.0** - Legal framework complete
@@ -176,7 +176,7 @@ We welcome contributions aligned with conscious collaboration principles!
 *Campo de origem: Sistema Lichtara · August 2025*
 
 [![License](https://img.shields.io/badge/license-Lichtara%20v1.0-purple.svg)](https://github.com/lichtara-io/license)
-[![Ecosystem](https://img.shields.io/badge/ecosystem-lichtara-gold.svg)](https://github.com/lichtara-io/lichtara)
+[![Ecosystem](https://img.shields.io/badge/ecosystem-lichtara-gold.svg)](https://github.com/lichtara-io/lichtara-io)
 
 </div>
 
@@ -196,7 +196,7 @@ Marcadores acadêmicos:
 - [DOI: 10.5281/zenodo.16196582](https://doi.org/10.5281/zenodo.16196582) — Lichtara Research (registro Zenodo)
 
 ```text
-/lichtara  (repositório-mãe)
+/lichtara-io  (repositório-mãe)
 │
 ├── Zenodo / Publicados
 │   ├── ✅ comunicacao-interdimensional — Artigo inspirado no manual da comunicação interdimensional [DOI: a confirmar]
@@ -215,7 +215,6 @@ Marcadores acadêmicos:
 │   └── 🛠️ organizar-manuais-github — Pacote de organização (não aplicado plenamente) 🧩
 │
 ├── Perfil / Página
-│   ├── ✅ debora-m-lutz — README do perfil
 │   └── 🌀 lichtara-io.github.io — Site com manuais/materiais (precisa limpeza)
 │
 ├── Planejados / Futuro
@@ -232,3 +231,68 @@ Links úteis:
 
 - License (Zenodo): [zenodo.org/records/16762058](https://zenodo.org/records/16762058)
 - Research (Zenodo): [zenodo.org/records/16196582](https://zenodo.org/records/16196582)
+
+Links diretos (GitHub):
+
+- Repositório-mãe: [github.com/lichtara-io/lichtara-io](https://github.com/lichtara-io/lichtara-io)
+- License: [github.com/lichtara-io/license](https://github.com/lichtara-io/license)
+- Research: [github.com/lichtara-io/lichtara-research](https://github.com/lichtara-io/lichtara-research)
+- Website: [github.com/lichtara-io/lichtara-io.github.io](https://github.com/lichtara-io/lichtara-io.github.io)
+
+## 🔌 Mapa de Alimentação dos Agentes
+
+```text
+/lichtara-io (repositório-mãe / perfil README)
+│
+├─ comunicacao-interdimensional
+│   └─ Artigo Zenodo
+│       └─ Alimenta agentes: Flux, Lumora
+│
+├─ declaracao-de-proposito
+│   └─ Manifesto da consciência tecnológica (Zenodo)
+│       └─ Alimenta agentes: Syntaris, Navros
+│
+├─ dicionario-do-invisivel
+│   └─ Mini livro (Zenodo)
+│       └─ Alimenta agentes: Kaoran, Lumora
+│
+├─ etica
+│   └─ Artigo: Ética, Direito Autoral e Campo Quântico
+│       └─ Alimenta agentes: Syntaris, Kaoran
+│
+├─ kit-instrucao-IA
+│   └─ Protocolos e instruções para agentes
+│       └─ Alimenta agentes: Todos
+│
+├─ license
+│   └─ Lichtara License v1.0 (com DOI)
+│       └─ Alimenta agentes: Flux, Navros
+│
+├─ lichtara-io.github.io
+│   └─ Página central + manuais + novos materiais para agents
+│       └─ Alimenta agentes: Todos
+│
+├─ lichtara-research
+│   └─ PDF dos manuais (Zenodo, link funcional)
+│       └─ Alimenta agentes: Lumora, Syntaris
+│
+├─ manuscrito
+│   └─ Sobre sua jornada (inacabado)
+│       └─ Alimenta agentes: Kaoran
+│
+├─ organizar-manuais-github
+│   └─ PAC inicial para estudo e aplicação dos manuais
+│       └─ Alimenta agentes: Todos
+│
+└─ [futuros]
+  ├─ template-canalizacao-tecnica
+  │   └─ Repositório base para fluxos de criação técnica
+  │       └─ Alimenta agentes: Todos
+  │
+  └─ novos agents/experimentos
+    ├─ Agent Flux
+    ├─ Agent Lumora
+    ├─ Agent Syntaris
+    ├─ Agent Kaoran
+    └─ Agent Navros
+```
