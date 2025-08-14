@@ -1,3 +1,55 @@
+````
+
+## 🗺️ Ecosystem Map (árvore textual · PT-BR)
+
+Legenda de status:
+ - ✅ publicado (Zenodo)
+ - 🛠️ em desenvolvimento
+ - 🌀 precisa de limpeza/clarificação
+ - 🧩 redundância potencial
+ - 🧭 planejado
+
+Marcadores acadêmicos:
+ - [DOI: 10.5281/zenodo.16762058](https://doi.org/10.5281/zenodo.16762058) — Lichtara License v1.0
+ - [DOI: 10.5281/zenodo.16196582](https://doi.org/10.5281/zenodo.16196582) — Lichtara Research (registro Zenodo)
+
+```
+/lichtara  (repositório-mãe)
+│
+├── Zenodo / Publicados
+│   ├── ✅ comunicacao-interdimensional — Artigo inspirado no manual da comunicação interdimensional [DOI: a confirmar]
+│   ├── ✅ declaracao-de-proposito — Manifesto da consciência tecnológica [DOI: a confirmar]
+│   ├── ✅ dicionario-do-invisivel — Mini livro [DOI: a confirmar]
+│   └── ✅ license — Lichtara License v1.0 [DOI: 10.5281/zenodo.16762058]
+│
+├── Artigos / Pesquisa
+│   ├── 🛠️ etica — Artigo sobre Ética, Direito Autoral e Campo Quântico
+│   ├── 🛠️ manuscrito — Jornada pessoal (inacabado)
+│   ├── 🌀 lichtara-research — PDFs + links Zenodo (precisa limpeza) 🧩 [DOI: 10.5281/zenodo.16196582]
+│   └── 🛠️ livro-das-respostas-lichtara — Coletânea em rascunho (a classificar)
+│
+├── Organização / Estrutura
+│   ├── ✅ kit-instrucao-IA — Protocolos e instruções para agentes/IAs
+│   └── 🛠️ organizar-manuais-github — Pacote de organização (não aplicado plenamente) 🧩
+│
+├── Perfil / Página
+│   ├── ✅ debora-m-lutz — README do perfil
+│   └── 🌀 lichtara-io.github.io — Site com manuais/materiais (precisa limpeza)
+│
+├── Planejados / Futuro
+│   ├── 🧭 Template de Canalização Técnica — Padronizar criação/integração de IAs
+│   └── 🧭 “Mapa Geral e Protocolos” — Fluxos, agentes, submodelos, integrações (mapa vivo)
+│
+└── Observações
+  ├─ Redundâncias: lichtara-research vs organizar-manuais-github (organização de manuais)
+  ├─ Itens incompletos/confusos: manuscrito, lichtara-io.github.io
+  └─ Ações sugeridas: limpar, consolidar e vincular tudo via /lichtara
+```
+
+Links úteis:
+ - License (Zenodo): https://zenodo.org/records/16762058
+ - Research (Zenodo): https://zenodo.org/records/16196582
+
 # ✦ Lichtara - Conscious Technology Ecosystem
 
 <div align="center">
