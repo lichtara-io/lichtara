@@ -76,7 +76,19 @@
 
 ---
 
-## 🚀 Getting Started
+## � Links Diretos
+
+- [lichtara (repositório-mãe)](https://github.com/lichtara-io/lichtara) — Visão geral e índice do ecossistema.
+- [comunicacao-interdimensional](https://github.com/lichtara-io/comunicacao-interdimensional) — mdBook com capítulos sobre comunicação interdimensional.
+- [declaracao-de-proposito](https://github.com/lichtara-io/declaracao-de-proposito) — Declaração de propósito, manifesto e documentação.
+- [dicionario-do-invisivel](https://github.com/lichtara-io/dicionario-do-invisivel) — Mini livro e glossário.
+- [etica](https://github.com/lichtara-io/etica) — Artigos sobre ética, direito autoral e campo quântico.
+- [kit-instrucao-IA](https://github.com/lichtara-io/kit-instrucao-IA) — Protocolos e templates para instrução de agentes.
+- [license](https://github.com/lichtara-io/license) — Lichtara License v1.0 (DOI: 10.5281/zenodo.16762058).
+- [lichtara-io.github.io](https://github.com/lichtara-io/lichtara-io.github.io) — Site público com manuais e materiais.
+- [lichtara-research](https://github.com/lichtara-io/lichtara-research) — Repositório de pesquisas e PDFs.
+
+## �🚀 Getting Started
 
 ### 1. Choose Your Entry Point
 
