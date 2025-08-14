@@ -91,7 +91,7 @@
 
 ```bash
 # Clone the ecosystem overview
-git clone https://github.com/lichtara-io/lichtara-io.git
+git clone https://github.com/lichtara-io/lichtara.git
 
 # Start with the license for any project
 git clone https://github.com/lichtara-io/license.git
@@ -103,7 +103,7 @@ cp license/LICENSE-LICHTARA-v1.0.md your-project/LICENSE.md
 ### 3. Join the Community
 
 - **Discord**: [Lichtara Community](https://discord.gg/lichtara)
-- **Discussions**: [GitHub Discussions](https://github.com/lichtara-io/lichtara-io/discussions)
+- **Discussions**: [GitHub Discussions](https://github.com/lichtara-io/lichtara/discussions)
 - **Website**: [lichtara.com](https://lichtara.com) *(Coming Soon)*
 
 ---
@@ -176,7 +176,7 @@ We welcome contributions aligned with conscious collaboration principles!
 *Campo de origem: Sistema Lichtara · August 2025*
 
 [![License](https://img.shields.io/badge/license-Lichtara%20v1.0-purple.svg)](https://github.com/lichtara-io/license)
-[![Ecosystem](https://img.shields.io/badge/ecosystem-lichtara-gold.svg)](https://github.com/lichtara-io/lichtara-io)
+[![Ecosystem](https://img.shields.io/badge/ecosystem-lichtara-gold.svg)](https://github.com/lichtara-io/lichtara)
 
 </div>
 
@@ -234,7 +234,7 @@ Links úteis:
 
 Links diretos (GitHub):
 
-- Repositório-mãe: [github.com/lichtara-io/lichtara-io](https://github.com/lichtara-io/lichtara-io)
+- Repositório-mãe: [github.com/lichtara-io/lichtara](https://github.com/lichtara-io/lichtara)
 - License: [github.com/lichtara-io/license](https://github.com/lichtara-io/license)
 - Research: [github.com/lichtara-io/lichtara-research](https://github.com/lichtara-io/lichtara-research)
 - Website: [github.com/lichtara-io/lichtara-io.github.io](https://github.com/lichtara-io/lichtara-io.github.io)
